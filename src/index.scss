@@ -40,9 +40,8 @@ html {
 
 body {
 	font-family: "Inter", sans-serif;
-	background-image: url("https://catherineasquithgallery.com/uploads/posts/2023-02/1676535785_catherineasquithgallery-com-p-zelenii-mrachnii-fon-167.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
+	background: url("https://catherineasquithgallery.com/uploads/posts/2023-02/1676535785_catherineasquithgallery-com-p-zelenii-mrachnii-fon-167.jpg")
+		center/cover no-repeat fixed;
 	color: white !important;
 }
 
